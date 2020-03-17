@@ -1,0 +1,20 @@
+--- 
+title: "Indicadores de gestión por procesos"
+subtitle: "Guía Metodológica"
+author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br>" 
+#date: "`r format(Sys.Date(), 'Año %Y')`"
+date: "Versión 1.0"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+# Portada {-}
+
+
+```{r fig.align='center', out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics('Imagenes/Portada.jpg')
+```
