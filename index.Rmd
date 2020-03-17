@@ -1,7 +1,7 @@
 --- 
 title: "Indicadores de gestión por procesos"
 subtitle: "Guía Metodológica"
-author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br>" 
+author: "<a href='http://estadisticas.unal.edu.co/' target='blank'> Oficina Nacional de Estadística</a> </br> <a href='http://siga.unal.edu.co/' target='blank'> Sistema Integrado de Gestión - SIGA</a>" 
 #date: "`r format(Sys.Date(), 'Año %Y')`"
 date: "Versión 1.0"
 site: bookdown::bookdown_site
