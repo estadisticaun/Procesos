@@ -7,7 +7,7 @@ date: "Versión 1.0"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib]
+bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 ---
@@ -18,3 +18,4 @@ link-citations: yes
 ```{r fig.align='center', out.width='75%', fig.show='hold', echo=FALSE}
 knitr::include_graphics('Imagenes/Portada.jpg')
 ```
+

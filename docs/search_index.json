@@ -1,11 +1,17 @@
 [
 ["index.html", "Indicadores de gestión por procesos Portada", " Indicadores de gestión por procesos Guía Metodológica Oficina Nacional de Estadística Sistema Integrado de Gestión - SIGA Versión 1.0 Portada "],
-["1-intro.html", "Capítulo 1 Introduction", " Capítulo 1 Introduction You can label chapter and section titles using {#label} after them, e.g., we can reference Chapter 1. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter 3. Figures and tables with captions will be placed in figure and table environments, respectively. par(mar = c(4, 4, .1, .1)) plot(pressure, type = &#39;b&#39;, pch = 19) Figure 1.1: Here is a nice figure! Reference a figure by its code chunk label with the fig: prefix, e.g., see Figure 1.1. Similarly, you can reference tables generated from knitr::kable(), e.g., see Table 1.1. knitr::kable( head(iris, 20), caption = &#39;Here is a nice table!&#39;, booktabs = TRUE ) Table 1.1: Here is a nice table! Sepal.Length Sepal.Width Petal.Length Petal.Width Species 5.1 3.5 1.4 0.2 setosa 4.9 3.0 1.4 0.2 setosa 4.7 3.2 1.3 0.2 setosa 4.6 3.1 1.5 0.2 setosa 5.0 3.6 1.4 0.2 setosa 5.4 3.9 1.7 0.4 setosa 4.6 3.4 1.4 0.3 setosa 5.0 3.4 1.5 0.2 setosa 4.4 2.9 1.4 0.2 setosa 4.9 3.1 1.5 0.1 setosa 5.4 3.7 1.5 0.2 setosa 4.8 3.4 1.6 0.2 setosa 4.8 3.0 1.4 0.1 setosa 4.3 3.0 1.1 0.1 setosa 5.8 4.0 1.2 0.2 setosa 5.7 4.4 1.5 0.4 setosa 5.4 3.9 1.3 0.4 setosa 5.1 3.5 1.4 0.3 setosa 5.7 3.8 1.7 0.3 setosa 5.1 3.8 1.5 0.3 setosa You can write citations, too. For example, we are using the bookdown package (???) in this sample book, which was built on top of R Markdown and knitr (Xie 2015). References "],
-["2-literature.html", "Capítulo 2 Literature", " Capítulo 2 Literature Here is a review of existing methods. "],
-["3-methods.html", "Capítulo 3 Methods", " Capítulo 3 Methods We describe our methods in this chapter. "],
-["4-applications.html", "Capítulo 4 Applications", " Capítulo 4 Applications Some significant applications are demonstrated in this chapter. "],
-["4-1-example-one.html", "4.1 Example one", " 4.1 Example one "],
-["4-2-example-two.html", "4.2 Example two", " 4.2 Example two "],
-["5-final-words.html", "Capítulo 5 Final Words", " Capítulo 5 Final Words We have finished a nice book. "],
-["references.html", "References", " References "]
+["intro.html", "Introducción", " Introducción El Capítulo 1, titulado Gestión por procesos, "],
+["1-procesos.html", "Capítulo 1 Gestión por procesos", " Capítulo 1 Gestión por procesos El mapa de macroprocesos de la Universidad, como se ilustra en la figura 1.1, está conformado por 16 macroprocesos. Figure 1.1: Mapa de procesos institucionales. Tomado de Gestión por procesos en http://siga.unal.edu.co/index.php/procesos/gestion-por-procesos1. "],
+["2-medicion.html", "Capítulo 2 Seguimiento y medición", " Capítulo 2 Seguimiento y medición Seguimiento, medición, análisis y evaluación "],
+["2-1-alcance.html", "2.1 Alcance", " 2.1 Alcance "],
+["3-medidas.html", "Capítulo 3 Tipos de medidas", " Capítulo 3 Tipos de medidas Existen tres tipos de medidas "],
+["3-1-estadisticas.html", "3.1 Estadísticas", " 3.1 Estadísticas Como lo presenta A. Rodríguez y E. Bernal (2019), las estadísticas1 Referencias "],
+["3-2-indicadores-estadisticos.html", "3.2 Indicadores estadísticos", " 3.2 Indicadores estadísticos "],
+["3-3-indicadores-de-cumplimiento.html", "3.3 Indicadores de cumplimiento", " 3.3 Indicadores de cumplimiento "],
+["4-indicadoresUN.html", "Capítulo 4 Medición de los procesos en la UN ", " Capítulo 4 Medición de los procesos en la UN "],
+["4-1-principios.html", "4.1 Principios", " 4.1 Principios "],
+["4-2-gobernabilidad.html", "4.2 Gobernabilidad", " 4.2 Gobernabilidad "],
+["4-3-un-proceso-especial.html", "4.3 Un proceso especial", " 4.3 Un proceso especial "],
+["anexos.html", "Anexos", " Anexos "],
+["referencias.html", "Referencias", " Referencias "]
 ]

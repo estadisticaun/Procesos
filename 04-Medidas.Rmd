@@ -1,0 +1,12 @@
+# Tipos de medidas {#medidas}
+
+Existen tres tipos de medidas
+
+## Estadísticas
+
+Como lo presenta @Alberto2019, las estadísticas^[Nombre que se emplea para diferenciarlo de ...] 
+
+## Indicadores estadísticos
+## Indicadores de cumplimiento
+
+
