@@ -1,0 +1,14 @@
+\contentsline {chapter}{Portada}{5}{chapter*.2}
+\contentsline {chapter}{Introducción}{7}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Gestión por procesos}{9}{chapter.1}
+\contentsline {chapter}{\numberline {2}Seguimiento y medición}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Alcance}{11}{section.2.1}
+\contentsline {chapter}{\numberline {3}Tipos de medidas}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Estadísticas}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Indicadores estadísticos}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Indicadores de cumplimiento}{13}{section.3.3}
+\contentsline {chapter}{\numberline {4}Medición de los procesos en la UN}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Principios}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Gobernabilidad}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}Un proceso especial}{15}{section.4.3}
+\contentsline {chapter}{Anexos}{17}{chapter*.4}
