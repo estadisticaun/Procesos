@@ -23,7 +23,7 @@ link-citations: yes
 
 # Introducción {- #intro}
 
-El Capítulo \@ref(procesos), titulado _Gestión por procesos_, 
+El Capítulo \@ref(procesos), titulado _Gestión por procesos_, presenta el Sistema de ...  
 
 <!--chapter:end:01-Introducción.Rmd-->
 
